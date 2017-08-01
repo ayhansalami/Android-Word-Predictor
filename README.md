@@ -1,5 +1,7 @@
 # Android Word Predictor Library
 This is a library for predicting current word and next word in English and Persian languages. In this library we used one popular dictionary for each language. For obtaining good results, we tested the dictionaries on more than 1K users and then we extracted most popular words in dictionaries and increased the frequency of those words.<br />
+In this project we used N-Gram (N from 1 to 4) to getting better result on next word prediction. If you have a suggestion, we are all ear:)<br />
+<br />
 ![](http://ayhansalami.ir/wordprediction/1-small.jpg)
 ![](http://ayhansalami.ir/wordprediction/2-small.jpg)
 ![](http://ayhansalami.ir/wordprediction/3-small.jpg)
