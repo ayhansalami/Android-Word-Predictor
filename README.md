@@ -1,5 +1,8 @@
 # Android Word Predictor Library
 This is a library for predicting current word and next word in English and Persian languages. In this library we used one popular dictionary for each language. For obtaining good results, we tested the dictionaries on more than 1K users and then we extracted most popular words in dictionaries and increased the frequency of those words.
+![]({{site.baseurl}}/http://ayhansalami.ir/wordprediction/1.jpg)
+![]({{site.baseurl}}/http://ayhansalami.ir/wordprediction/2.jpg)
+![]({{site.baseurl}}/http://ayhansalami.ir/wordprediction/3.jpg)
 
 ## Installing
 For using this library you should download the zip file and then import the "prediction" folder into your project. After that you should initialize Sugar ORM Context (You can read sugar orm documentation or look at the example application).
@@ -7,6 +10,12 @@ For using this library you should download the zip file and then import the "pre
 
 ## Examples
 For using this library you can look at the examples in sample projects. If you have a question, feel free to contact me at salami.d@removemeaut.ac.ir
+
+## TODO
+- Add another languages support
+- Remove stop words before any other process
+- Improve dictionaries quality by increasing more common words frequency
+- Using other NLP algorithms in order to increase prediction precision
 
 ## License
     Copyright 2013 Square, Inc.
