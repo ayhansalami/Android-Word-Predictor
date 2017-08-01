@@ -5,6 +5,9 @@ In this project we used N-Gram (N from 1 to 4) to getting better result on next 
 ![](http://ayhansalami.ir/wordprediction/1-small.jpg)
 ![](http://ayhansalami.ir/wordprediction/2-small.jpg)
 ![](http://ayhansalami.ir/wordprediction/3-small.jpg)
+<br />
+You can download sample application from here.
+[Sample Application](http://ayhansalami.ir/wordprediction/app-release.apk)
 
 ## Installing
 For using this library you should download the zip file and then import the "prediction" folder into your project. After that you should initialize Sugar ORM Context (You can read sugar orm documentation or look at the example application).
