@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WordPredictionExample</string>
+    <string name="learn">Learn!</string>
+    <string name="persian">Persian</string>
+    <string name="english">English</string>
+    <string name="current_word_predictions">Current Word Predictions:</string>
+    <string name="next_word_predictions">Next Word Predictions:</string>
+    <string name="blankList">[]</string>
+    <string name="writeText">Text...</string>
+    <string name="thank_you">Thank you for teaching me!</string>
+</resources>
