@@ -1,5 +1,5 @@
 # Android Word Predictor Library
-This is a library for predicting current word and next word in English and Persian languages. In this library we used one popular dictionary for each language. For obtaining good results, we tested the dictionaries on more than 1K users and then we extracted most popular words in dictionaries and increased the frequency of those words.
+This is a library for predicting current word and next word in English and Persian languages. In this library we used one popular dictionary for each language. For obtaining good results, we tested the dictionaries on more than 1K users and then we extracted most popular words in dictionaries and increased the frequency of those words.<br />
 ![]({{site.baseurl}}/http://ayhansalami.ir/wordprediction/1.jpg)
 ![]({{site.baseurl}}/http://ayhansalami.ir/wordprediction/2.jpg)
 ![]({{site.baseurl}}/http://ayhansalami.ir/wordprediction/3.jpg)
