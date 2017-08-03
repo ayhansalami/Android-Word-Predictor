@@ -23,7 +23,7 @@ For using this library you can look at the examples in sample projects. If you h
 - Using other NLP algorithms in order to increase prediction precision
 
 ## License
-    Copyright 2013 Square, Inc.
+    Copyright 2013 Ayhan Salami
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
